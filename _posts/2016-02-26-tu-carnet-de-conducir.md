@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T19:24:25.451Z'
-dateModified: '2016-02-26T19:24:17.127Z'
+datePublished: '2016-02-26T19:33:42.335Z'
+dateModified: '2016-02-26T19:30:03.374Z'
 title: '¡Tu carnet de conducir!'
 author: []
 sourcePath: _posts/2016-02-26-tu-carnet-de-conducir.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 # ¡Tu carnet de conducir!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1fe461f-fc19-4992-a709-a9003df7b304.jpg)
 
 ¡Hola! Estamos deseando conocerte y empezar las clases contigo. Nuestro aula tiene un aire distendido y mucho buen rollo entre alumnos y profes.
 
