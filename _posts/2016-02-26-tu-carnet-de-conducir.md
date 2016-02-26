@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T19:15:09.825Z'
-dateModified: '2016-02-26T19:14:50.324Z'
+datePublished: '2016-02-26T19:24:25.451Z'
+dateModified: '2016-02-26T19:24:17.127Z'
 title: '¡Tu carnet de conducir!'
 author: []
+sourcePath: _posts/2016-02-26-tu-carnet-de-conducir.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-tu-carnet-de-conducir.md
-published: true
 url: tu-carnet-de-conducir/index.html
 _type: Article
 
