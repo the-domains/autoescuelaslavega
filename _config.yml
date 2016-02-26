@@ -1,0 +1,28 @@
+name: autoescuelaslavega
+favicon: null
+layout_spectrum: 0.5943071045912802
+typography_spectrum: 0.7194474840071052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4315308863297105
+  lightness: 0.3391495996620506
+  saturation: 0.25927353743463755
+  rhythmicContrast: 0.5906424610875547
+purpose: []
