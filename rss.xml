@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[autoescuelaslavega]]></title>
+        <description><![CDATA[autoescuelaslavega]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 19:15:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¡Tu carnet de conducir!]]></title>
+            <description><![CDATA[<article><h1>¡Tu carnet de conducir!</h1><p>¡Hola! Estamos deseando conocerte y empezar las clases contigo. Nuestro aula tiene un aire distendido y mucho buen rollo entre alumnos y profes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1fe461f-fc19-4992-a709-a9003df7b304.jpg"></article>]]></description>
+            <link>undefinedtu-carnet-de-conducir/index.html</link>
+            <guid isPermaLink="false">8e153061-aa74-431f-868b-c5ee9c12997a</guid>
+            <pubDate>Fri, 26 Feb 2016 19:15:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
